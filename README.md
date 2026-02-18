@@ -6,17 +6,17 @@
 📑 Table of Contents
 --------------------
 
--   [Architectural Overview](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/new/main?filename=README.md#-architectural-overview)
+-   [Architectural Overview](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#-architectural-overview)
+-   
+-   [Core Features](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#-core-features)
 
--   [Core Features](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/new/main?filename=README.md#-core-features)
+-   [The Tech Stack](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#-the-tech-stack)
 
--   [The Tech Stack](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/new/main?filename=README.md#-the-tech-stack)
+-   [Deployment Strategies](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#-deployment-strategies)
 
--   [Deployment Strategies](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/new/main?filename=README.md#-deployment-strategies)
+-   [Advanced Configurations](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#%EF%B8%8F-advanced-configurations)
 
--   [Advanced Configurations](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/new/main?filename=README.md#%EF%B8%8F-advanced-configurations)
-
--   [Operational Intelligence](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/new/main?filename=README.md#-operational-intelligence)
+-   [Operational Intelligence](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#-operational-intelligence)
 
 * * * * *
 
