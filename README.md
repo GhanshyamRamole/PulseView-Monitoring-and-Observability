@@ -7,7 +7,7 @@
 --------------------
 
 -   [Architectural Overview](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#-architectural-overview)
--   
+    
 -   [Core Features](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#-core-features)
 
 -   [The Tech Stack](https://github.com/GhanshyamRamole/PulseView-Monitoring-and-Observability/tree/master?tab=readme-ov-file#-the-tech-stack)
